@@ -1,3 +1,6 @@
+body {
+    font-family: candara;
+  }
 .basic-image {
     max-width: 100%;
     border: 10px solid yellow;
