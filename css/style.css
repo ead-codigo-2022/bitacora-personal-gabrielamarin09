@@ -28,7 +28,7 @@ img {
 .main-header {
 	background: #bebebe;
 	height: 80px;
-	border-bottom: 10px;
+	border-bottom: 1px;
 }	
 .main-header a {
 	color: #58605c;
