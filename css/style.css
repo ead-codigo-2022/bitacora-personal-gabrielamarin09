@@ -3,7 +3,7 @@ body {
 	padding: 0;
 	font-family: Candara;
 	color: #58605c;
-	background: #bebebe; 
+	background: white; 
 	font-size: 1em;
 	line-height: 1.5em;
 }
@@ -26,7 +26,7 @@ img {
 }
 
 .main-header {
-	background: #bebebe;
+	background: white;
 	height: 80px;
 	border-bottom: solid #58605c 5px;
 
@@ -44,7 +44,7 @@ img {
 	text-decoration: none;
 }
 .logo-header:hover {
-	color: white;
+	color: #bebebe;
 }
 	
 .logo-header .site-name {
@@ -57,7 +57,7 @@ img {
 	display: block;
 	font-weight: 300;
 	font-size: 0.8em;
-	color: white;
+	color: #bebebe;
 }
 	
 
@@ -86,15 +86,16 @@ nav ul li a {
 }
 			
 nav ul li a:hover {
-	background: white;
+	background: #bebebe;
 }
 
-.main-content {
-  background: white;
+container.main-content {
+  background: #bebebe;
   width: 90%;
   max-width: 800px;
   margin: 20px auto;
   box-shadow: 0 0 10px rgba(0,0,0,.1);
+  height: 800px;
 }
         
 .main-content header,
@@ -103,7 +104,7 @@ nav ul li a:hover {
 }
 
 .main-footer {
-  background: #bebebe;
+  background: white;
   color: #58605c;
   text-align: center;
   padding: 20px;
