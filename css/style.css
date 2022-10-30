@@ -89,13 +89,12 @@ nav ul li a:hover {
 	background: #bebebe;
 }
 
-container.main-content {
+.main-content {
   background: #bebebe;
   width: 90%;
   max-width: 800px;
   margin: 20px auto;
   box-shadow: 0 0 10px rgba(0,0,0,.1);
-  height: 800px;
 }
         
 .main-content header,
