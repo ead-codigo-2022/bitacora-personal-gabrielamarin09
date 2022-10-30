@@ -2,7 +2,7 @@ body {
 	margin: 0;
 	padding: 0;
 	font-family: Candara;
-	color: #5f3a33;
+	color: #381b14;
 	background: #F9F9F7; 
 	font-size: 1em;
 	line-height: 1.5em;
@@ -40,6 +40,7 @@ img {
 	float: left;
 	padding: 20px 0 0 20px;
 	text-decoration: none;
+	font-size: 1.1em;
 }
 .logo-header:hover {
 	color: #c4bcbc;
@@ -83,6 +84,16 @@ nav ul li a:hover {
 	background: #c4bcbc;
 }
 
+p.lead.mb-4{
+	margin: 20px;
+	width: 50%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 1.2rem;
+	font-weight: 300;
+}
+
 .main-content {
   background: #e7ebe8;
   width: 90%;
@@ -97,8 +108,8 @@ nav ul li a:hover {
 }
 
 .main-footer {
-  background: #F9F9F7;
-  color: #5f3a33;
+  background: #c4bcbc;
+  color: #886f6f;
   text-align: center;
   padding: 20px;
   margin-top: 40px;
