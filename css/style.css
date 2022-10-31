@@ -111,15 +111,13 @@ div.des-content {
 	margin-right: 100px;
 }
 
-
-
 .galeria{
     font-family: 'candara';
 }
 
 .contenedor-imagenes{
     display:flex;
-    width: 85%;
+    width: 80%;
     margin: auto;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -127,9 +125,9 @@ div.des-content {
 }
 
 .contenedor-imagenes .imagen{
-    width: 32%;
+    width: 400px;
     position: relative;
-    height:250px;
+    height:400px;
     margin-bottom:5px;
     box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, .75)
 }
@@ -171,19 +169,6 @@ div.overlay-h2-a {
 .imagen:hover .overlay{
     height:100%;
     cursor: pointer;
-}
-
-
-
-
-
-
-
-
-div.row.row-cols-1.row-cols-sm-2.row-cols-md-3.g-3 {
-    padding-left: auto;
-    padding-right: auto;
-    padding-bottom: 1rem;
 }
 
 .main-footer {
