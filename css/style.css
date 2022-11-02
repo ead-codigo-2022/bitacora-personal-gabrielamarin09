@@ -135,6 +135,9 @@ div.overlay-h2-a {
 /*Diseño*/
 
 /*Personal*/
+h1.text-center.text-lg-start.mt-4.mb-0{
+	font-size: 30px;
+}
 
 
 /*Sobre mi*/
@@ -147,7 +150,3 @@ a.wiki{
 	text-decoration: underline;
 	color: #5f3a33;
 }
-
-
-
-
